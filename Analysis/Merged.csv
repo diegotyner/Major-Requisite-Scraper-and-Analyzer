@@ -1,0 +1,84 @@
+CS and Cog Sci Combined,,
+Course Code,Class Name,Units
+Mandatory Lower Div,,,
+CGS 001,Introduction to Cognitive Science,4
+ECS 020,Discrete Mathematics For Computer Science,4
+LIN 001,Introduction to Linguistics,4
+MAT 022A,Linear Algebra,3
+PHI 012,Introduction to Symbolic Logic,4
+PHI 013G,"Minds, Brains, & Computers with Discussion",4
+PSC 001,General Psychology,4
+PSC 041,Research Methods in Psychology,4
+STA 013,Elementary Statistics,4
+MAT 021A,Calculus,4
+MAT 021B,Calculus,4
+MAT 021C,Calculus,4
+ECS 036A,Programming & Problem Solving,4
+ECS 036B,Software Development & Object-Oriented Programming in C++,4
+ECS 036C,"Data Structures, Algorithms, & Programming",4
+ECS 050,Computer Organization & Machine-Dependent Programming,4
+Choice Lower Div,,,
+Choose three:,,15
+BIS 002A,Introduction to Biology: Essentials of Life on Earth,,5
+BIS 002B,Introduction to Biology: Principles of Ecology & Evolution,,5
+BIS 002C,Introduction to Biology: Biodiversity & the Tree of Life,,5
+CHE 002A,General Chemistry,,5
+CHE 002B,General Chemistry,,5
+CHE 002C,General Chemistry,,5
+CHE 004A,General Chemistry for the Physical Sciences & Engineering,,5
+CHE 004B,General Chemistry for the Physical Sciences & Engineering,,5
+CHE 004C,General Chemistry for the Physical Sciences & Engineering,,5
+PHY 009A,Classical Physics,,5
+PHY 009B,Classical Physics,,5
+PHY 009C,Classical Physics,,5
+Mandatory Upper Div,,,
+PSC 100,Introduction to Cognitive Psychology,4
+PHI 112,Intermediate Symbolic Logic,4
+CGS Topical Course: one upper division CGS course,,4
+ECS 122A,Algorithm Design & Analysis,4
+ECS 120,Theory of Computation,4
+ECS 122B,Algorithm Design & Analysis,4
+ECS 140A,Programming Languages,4
+ECS 150,Operating Systems & System Programming,4
+ECS 154A,Computer Architecture,4
+"Choose a minimum of seven courses, including at least one Mathematics (MAT) or Statistics (STA) course. A minimum of four electives must be (ECS) courses:",,26-31
+Choice Upper Div,,,
+Choose 2 from Group B:,,8
+ECS 170,Introduction to Artificial Intelligence,,4
+ECS 171,Machine Learning,,4
+LIN 177,Computational Linguistics,,4
+PHI 133,"Logic, Probability, & Artificial Intelligence",,4
+Choose 1 from Group C:,,4
+CGS 107,Neuroeconomics/Reinforcement Learning & Decision Making,,4
+LIN 175,Biological Basis of Language,,4
+PSC 101,Introduction to Biological Psychology,,4
+PSC 135,Cognitive Neuroscience: The Biological Foundations of the Mind,,4
+PSC 139,Advanced Cognitive Neuroscience,,4
+PSC 145,Developmental Cognitive Neuroscience,,4
+Choose 1 from Group D or E:,,4
+PHI 103,Philosophy on Mind,,4
+PHI 104,The Evolution of Mind,,4
+PHI 129,Knowledge & the A Priori,,4
+PHI 136,Formal Epistemology,,4
+LIN 103A,"Linguistic Analysis I: Phonetics, Phonology, Morphology",,4
+LIN 103B,"Linguistic Analysis II: Morphology, Syntax, Semantics",,4
+LIN 150,Languages of the World,,4
+LIN 182,Multilingualism,,4
+Choose 4 from Group F (which do not overlap with the Group C course):,,15-18
+PSC 101,Introduction to Biological Psychology,,4,Shared with another choose
+PSC 103A,Statistical Analysis of Psychological Data,,5
+PSC 103B,Statistical Analysis of Psychological Data,,5
+PSC 113,Developmental Psychobiology,,4
+PSC 121,Physiological Psychology,,4
+PSC 124,Comparative Neuroanatomy,,3
+PSC 130,Human Learning & Memory,,4
+PSC 131,Perception,,4
+PSC 135,Cognitive Neuroscience: The Biological Foundations of the Mind,,4,Shared with another choose
+PSC 136,Psychology of Music,,4
+PSC 137,Neurobiology of Learning & Memory,,4
+PSC 140,Developmental Psychology,,4
+PSC 141,Cognitive Development,,4
+Choose 1,,4
+ECS 132,Probability & Statistical Modeling for Computer Science,,4
+MAT 135A,Probability,,4
+STA 131A,Introduction to Probability Theory,,4

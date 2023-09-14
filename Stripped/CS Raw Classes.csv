@@ -1,0 +1,33 @@
+Course Code,Class Name,Units
+MAT 021A,Calculus,4
+MAT 021B,Calculus,4
+MAT 021C,Calculus,4
+MAT 022A,Linear Algebra,3
+MAT 027A,Linear Algebra with Applications to Biology,4
+MAT 067,Modern Linear Algebra,4
+ECS 020,Discrete Mathematics For Computer Science,4
+ECS 036A,Programming & Problem Solving,4
+ECS 036B,Software Development & Object-Oriented Programming in C++,4
+ECS 036C,Data Structures; Algorithms; & Programming,4
+ECS 050,Computer Organization & Machine-Dependent Programming,4
+BIS 002A,Introduction to Biology: Essentials of Life on Earth,5
+BIS 002B,Introduction to Biology: Principles of Ecology & Evolution,5
+BIS 002C,Introduction to Biology: Biodiversity & the Tree of Life,5
+CHE 002A,General Chemistry,5
+CHE 002B,General Chemistry,5
+CHE 002C,General Chemistry,5
+CHE 004A,General Chemistry for the Physical Sciences & Engineering,5
+CHE 004B,General Chemistry for the Physical Sciences & Engineering,5
+CHE 004C,General Chemistry for the Physical Sciences & Engineering,5
+PHY 009A,Classical Physics,5
+PHY 009B,Classical Physics,5
+PHY 009C,Classical Physics,5
+ECS 122A,Algorithm Design & Analysis,4
+ECS 120,Theory of Computation,4
+ECS 122B,Algorithm Design & Analysis,4
+ECS 140A,Programming Languages,4
+ECS 150,Operating Systems & System Programming,4
+ECS 154A,Computer Architecture,4
+ECS 132,Probability & Statistical Modeling for Computer Science,4
+MAT 135A,Probability,4
+STA 131A,Introduction to Probability Theory,4
